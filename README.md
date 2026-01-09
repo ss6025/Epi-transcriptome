@@ -96,7 +96,7 @@ for general users
 Config file path [/work/greenbaum/software/rna-editing-analysis/nextflow.config]: 
 Input directory : /work/greenbaum/users/suns3/MSKCC/iacobuzio/organoids_PDAC/ALN/REDITOOLS_OUTPUT/SINE
 Output directory [results]: 
-Notify this Email Address [lih7@mskcc.org]: 
+Notify this Email Address [suns3@mskcc.org]: 
 Running RNAediting analysis pipeline:
 ----------------
 Input directory: /work/greenbaum/users/suns3/MSKCC/iacobuzio/organoids_PDAC/ALN/REDITOOLS_OUTPUT/SINE
